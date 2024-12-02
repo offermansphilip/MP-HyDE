@@ -1,0 +1,8 @@
+cohere
+openai==0.28
+pyserini
+faiss-gpu
+transformers
+pyserini
+torch
+ollama
